@@ -12,6 +12,11 @@
 - dispatcher.py
 - start.py
 ```
+
+### Функционал ###
+- Commands ( !hello )
+- Events ( on_ready, on_message )
+
 ### Библиотеки для работы ###
 - [discord](https://pypi.org/project/discord/)
 
