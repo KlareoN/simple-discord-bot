@@ -12,6 +12,11 @@
 - dispatcher.py
 - start.py
 ```
+
+### Functional ###
+- Commands ( !hello )
+- Events ( on_ready, on_message )
+
 ### Libraries to work with ###
 - [discord](https://pypi.org/project/discord/)
 
